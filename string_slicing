@@ -26,3 +26,12 @@ print (my_string[:8]) # All the characters before 'M'
 print (my_string[8:]) # Al the characters starting from 'M'
 print (my_string[:]) # The whole string
 print (my_string[::-1]) # The whole string in reverse
+
+# normal manipulation
+
+print ("Harry Potter!") # Double quotation marks
+
+got = 'Game of Thrones...' # Single quotation marks
+print (got)
+print ("$") # Single character
+
