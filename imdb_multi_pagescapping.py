@@ -72,5 +72,3 @@ movies['us_grossMillions'] = pd.to_numeric(movies['us_grossMillions'], errors='c
 movies.to_csv('movie.csv', index=False)
 print(movies.to_string())
 print(movies.dtypes)
-
-# https://www.youtube.com/watch?v=sz25xxF_AVE
